@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.navebar{
+ box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+ font-family: "Bitter", serif;
+}
+.row{
+ align-items: center;
+ justify-content: space-around;
+}
+.dpimg{
+ border-radius: 100%;
+}
+.onjective-heading{
+ font-family: "Bitter", serif;
+ padding: 5%;
+ margin: 3%;
+}
+.education{
+ margin-top: 3%;
+ justify-content: space-between;
+}
+.card-body{
+ box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
+.col{
+ padding: 20px;
+ align-items: center;
+ 
+}
+.education img{
+ height: 200px;
+ width: 200px;
+}
+.skillimg{
+ height: 200px;
+ width: 200px;
+ border-radius: 100%;
+ font-family: "Bitter", serif;
+ align-items: center;
+ justify-content: space-between;
+ box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
+
+.skillhead{
+ font-family: "Bitter", serif;
+}
+.skillsection{
+ margin: 5%;
+}
+.skill2{
+  text-align: center;
+  justify-content: space-between;
+  margin-top: 3%;
+}
+.skill2 img{
+  border-radius: 50%;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
+.skillimgtop{
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
+.prohead{
+  margin-top: 7%;
+  font-family: "Bitter", serif;
+}
+.projecthead{
+  margin: 5%;
+}
+.about{
+  padding: 3%;
+}
+.contact{
+ 
+  font-family: "Bitter", serif;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+  padding: 5%;
+}
+
